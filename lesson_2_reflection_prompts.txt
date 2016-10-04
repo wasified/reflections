@@ -8,6 +8,8 @@ The staging area is different from the working directory and the repository sinc
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+As it will help me understand the difference between the staging area and the actual commits. To be honest, I am not really sure. 
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
